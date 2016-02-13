@@ -1,0 +1,28 @@
+{
+  "name": "been_said",
+  "authors": [
+    "3dwardsharp <edward@edwardsharp.net>"
+  ],
+  "description": "it all has been said before...",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "youtube",
+    "loop",
+    "text",
+    "to",
+    "speech"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/edwardsharp/been_said",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
